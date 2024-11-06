@@ -1,2 +1,2 @@
 # Music-Player-App
-![Preview](assets/Preview.png)
+![Preview](Preview.png)
